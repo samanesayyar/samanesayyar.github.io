@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Few-Shot Learning for Fashion Recommendation System"
+excerpt: "In this project, we use Fewshot learning alongside a recommender system to detect user preferences from sparse data or limited user-provided information.<br/><img src='/images/portfo1.png'>"
 collection: portfolio
 ---
 
