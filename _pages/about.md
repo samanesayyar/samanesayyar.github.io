@@ -12,7 +12,7 @@ Hello! My name is Samane Sayyar. I graduated with a master degree in Electronic 
 
 
 
-**Research Interests\*: I am interested in computer science, machine learning, deep learning, computer vision, and recommender systems. 
+**Research Interests\**: I am interested in computer science, machine learning, deep learning, computer vision, and recommender systems. 
 
 
 * You can see my works in my portfolio
