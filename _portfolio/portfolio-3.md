@@ -1,6 +1,6 @@
 ---
 title: "Lastest Project: AI Fitness Fat-Loss Muscle Detection & Segmentation"
-excerpt: "Using hybrid approach(Mask-RCNN + YOLOv8) for much faster, more accurate detection and segmentation of objects.<br/><img src='/images/fit1.gif'><img src='/images/fit2.gif'><img src='/images/fit3.gif'>"
+excerpt: "Using hybrid approach(Mask-RCNN + YOLOv8) for much faster, more accurate detection and segmentation of objects.<br/><img src='/images/fitt1.gif'><img src='/images/fitt2.gif'><img src='/images/fitt3.gif'>"
 collection: portfolio
 ---
 
