@@ -1,6 +1,6 @@
 ---
 title: "Few-Shot Learning for Fashion Recommendation System"
-excerpt: "In this project, we use Fewshot learning alongside a recommender system to detect user preferences from sparse data or limited user-provided information.<br/><img src='/images/portfo1.png'>"
+excerpt: "In this project, we use Fewshot learning alongside a recommender system to detect user preferences from sparse data or limited user-provided information.<br/><img src='/images/rec1.png'>"
 collection: portfolio
 ---
 
