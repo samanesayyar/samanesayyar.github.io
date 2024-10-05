@@ -17,5 +17,5 @@ Hello! My name is Samane Sayyar. I graduated with a master degree in Electronic 
 
 * You can see my works in my portfolio
 
-* You can contact me at samanesayyar7210@gmail.com
+<!--* You can contact me at samanesayyar7210@gmail.com-->
 
